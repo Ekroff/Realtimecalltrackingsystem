@@ -1,0 +1,96 @@
+{
+  "colors": {
+    "primary": "#0066CC",
+    "primaryDark": "#0052A3",
+    "primaryLight": "#3385D6",
+    "secondary": "#F5F5F5",
+    "secondaryDark": "#E0E0E0",
+    "success": "#10B981",
+    "successDark": "#059669",
+    "successLight": "#34D399",
+    "warning": "#F59E0B",
+    "warningDark": "#D97706",
+    "warningLight": "#FBBF24",
+    "error": "#EF4444",
+    "errorDark": "#DC2626",
+    "errorLight": "#F87171",
+    "textDark": "#1F2937",
+    "textLight": "#6B7280",
+    "textMuted": "#9CA3AF",
+    "background": "#FFFFFF",
+    "backgroundAlt": "#F9FAFB",
+    "border": "#E5E7EB",
+    "borderLight": "#F3F4F6"
+  },
+  "spacing": {
+    "1": "4px",
+    "2": "8px",
+    "3": "12px",
+    "4": "16px",
+    "5": "20px",
+    "6": "24px",
+    "8": "32px",
+    "10": "40px",
+    "12": "48px",
+    "16": "64px",
+    "20": "80px"
+  },
+  "typography": {
+    "fontFamily": "Inter, ui-sans-serif, system-ui, sans-serif",
+    "fontSize": {
+      "xs": "12px",
+      "sm": "14px",
+      "base": "16px",
+      "lg": "18px",
+      "xl": "20px",
+      "2xl": "24px",
+      "3xl": "30px",
+      "4xl": "32px"
+    },
+    "lineHeight": {
+      "xs": "16px",
+      "sm": "20px",
+      "base": "24px",
+      "lg": "28px",
+      "xl": "28px",
+      "2xl": "32px",
+      "3xl": "36px",
+      "4xl": "40px"
+    },
+    "fontWeight": {
+      "light": 300,
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    }
+  },
+  "borderRadius": {
+    "sm": "6px",
+    "md": "12px",
+    "lg": "20px",
+    "full": "9999px"
+  },
+  "shadows": {
+    "sm": "0 1px 2px 0 rgb(0 0 0 / 0.05)",
+    "md": "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)",
+    "lg": "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)",
+    "xl": "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)"
+  },
+  "zIndex": {
+    "base": 0,
+    "dropdown": 1000,
+    "sticky": 1020,
+    "fixed": 1030,
+    "modalBackdrop": 1040,
+    "modal": 1050,
+    "popover": 1060,
+    "tooltip": 1070
+  },
+  "breakpoints": {
+    "mobile": "0px",
+    "tablet": "640px",
+    "desktop": "1024px"
+  }
+}
